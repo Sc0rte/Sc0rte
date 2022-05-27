@@ -1,6 +1,8 @@
 #### 👋 Hi hi, i'm @Sc0rte whats'up Devs?
 - 👀 I’m interested in Javascript, HTML ,CSS , Python and C
 - 🌱 I’m currently learning C and Javascript
+- :skull: I'm a begginer front-end developer
+
 
 
 
